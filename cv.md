@@ -2,7 +2,7 @@
  
 CANDIDATE’S OVERVIEW 
 
-    I am an organized and motivated Front-end developer with little experience in site design and 
+   I am an organized and motivated Front-end developer with little experience in site design and 
 development. I specialize in HTML/CSS/JavaScript. I plan to continue to gain more knowledge and skills 
 in front-end development in order to eventually get a job in a large IT company. 
 
