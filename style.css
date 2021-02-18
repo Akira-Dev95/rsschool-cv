@@ -13,9 +13,17 @@ h2 {
 }
 
 .main_cont {
-  margin: 0 15% 0 15%;
-  width: 70%;
+  margin: 0 25% 0 25%;
+  width: 50%;
 }
+
+@media (max-width: 1540px) {
+  .main_cont {
+    margin: 0 10% 0 10%;
+    width: 80%;
+  }
+}
+
 .string {
   background-color: rgb(212, 212, 212);
 }
