@@ -11,3 +11,11 @@ p {
 h2 {
   font-size: 109%;
 }
+
+.main_cont {
+  margin: 0 15% 0 15%;
+  width: 70%;
+}
+.string {
+  background-color: rgb(212, 212, 212);
+}
