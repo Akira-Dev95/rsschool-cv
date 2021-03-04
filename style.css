@@ -27,3 +27,8 @@ h2 {
 .string {
   background-color: rgb(212, 212, 212);
 }
+
+img {
+  display: block;
+  margin: auto;
+}
